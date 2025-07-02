@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ❄️🔥 Chill VS Blaze - Tic-Tac-Toe
 
-## Getting Started
+Welcome to **Chill VS Blaze** – the ultimate Tic-Tac-Toe showdown where ice meets fire! Will you freeze out your opponent as Chill, or scorch your way to victory as Blaze?
 
-First, run the development server:
+## 🎮 What is Chill VS Blaze?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+A playful, modern twist on classic Tic-Tac-Toe:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+-   **Chill (❄️)** and **Blaze (🔥)** battle for grid supremacy
+-   Each win triggers a flurry of snow or a shower of embers
+-   The background shifts with the game's momentum and winner
+-   Scoreboard, turn tracker, and beautiful glassy UI
+-   Built for fun, flair, and a little friendly rivalry!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+-   **React 19 + Next.js 15**: Modern, fast, and SSR-ready
+-   **Tailwind CSS & shadcn/ui**: Gorgeous, responsive, and glassy
+-   **Custom Canvas Effects**: Realistic snow and ember win animations
+-   **Dynamic Backgrounds**: The board's mood changes with the game
+-   **AI Assistant**: Built with help from OpenAI GPT-4
+-   **Deployed on Vercel**: Lightning-fast, global, and free to play
 
-## Learn More
+## 🚀 Getting Started
 
-To learn more about Next.js, take a look at the following resources:
+1. **Clone this repo:**
+    ```bash
+    git clone https://github.com/your-username/chill-vs-blaze.git
+    cd chill-vs-blaze
+    ```
+2. **Install dependencies:**
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
+3. **Run locally:**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+    ```bash
+    npm run dev
+    # or
+    yarn dev
+    ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+    Open [http://localhost:3000](http://localhost:3000) and let the battle begin!
 
-## Deploy on Vercel
+4. **Deploy to Vercel:**
+    ```bash
+    npx vercel --prod
+    ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🧊🔥 Who will win?
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+-   **Chill (❄️)**: Calm, calculated, and cool as ice
+-   **Blaze (🔥)**: Bold, passionate, and burning for victory
+
+Choose your side, challenge a friend, and let the sparks (or snowflakes) fly!
+
+---
+
+Made with ❤️ by Sam De Guzman
